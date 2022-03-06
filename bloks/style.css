@@ -1,0 +1,18 @@
+div {
+    display: block;
+}
+.first {
+ width: 800px;
+ height: 200px;   
+ background-color: red;
+}
+.second {
+ width: 800px;
+ height: 200px;   
+ background-color: white;
+}
+.third {
+ width: 800px;
+ height: 200px;
+ background-color: rgb(0, 185, 209);
+}
